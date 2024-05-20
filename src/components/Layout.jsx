@@ -5,7 +5,7 @@ import SectionMain2 from './SectionMain3'
 
 function Layout() {
   return (
-    <div className='mx-28'>
+    <div className='mx-40'>
     <SectionMain/>
     <SectionMain1/>
     <SectionMain2/>
